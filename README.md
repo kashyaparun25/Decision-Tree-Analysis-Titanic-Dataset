@@ -22,6 +22,7 @@ Step 2: Fit a decision tree model using independent variables ‘pclass + sex + 
 ![image](https://github.com/kashyaparun25/Decision-Tree-Analysis-Titanic-Dataset/assets/52271759/d34ac1d6-b2f4-42a4-9e92-4f49cad53e13)
 
 Step 3: Use cross‐validation to find the best parameter to prune the tree. You should be able to plot a graph with the ‘tree size’ as the x-axis and ‘number of misclassification’ as the Y-axis. You may have a plot similar to (not necessarily the exact same as) below:
+
 ![image](https://github.com/kashyaparun25/Decision-Tree-Analysis-Titanic-Dataset/assets/52271759/9c964b12-d4cf-455a-9681-fc072430dbaf)
 
 Step 4: Find the tree size that yields a minimum number of misclassifications. Choose the optimal tree size to prune the tree and plot the pruned tree (which shall be smaller than the tree you obtained in Step 2). Report the accuracy of pruned tree on the test set for the following:
